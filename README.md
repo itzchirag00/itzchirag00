@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi 👋, I'm Chirag Sood
 A passionate AI/ML enthusiast & developer   
