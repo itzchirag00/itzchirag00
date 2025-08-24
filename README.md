@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Chirag Sood
-A passionate AI/ML enthusiast & developer   
+A passionate full-stack & ML developer   
 
 ---
 
