@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋, I'm Chirag Soof  
+# Hi 👋, I'm Chirag Sood
 A passionate AI/ML enthusiast & developer   
 
 ---
